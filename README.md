@@ -23,6 +23,7 @@ how we describe onstants
 Describe, what project structure we use.
 
 ### Folders
+Describe each project folder.
 
 ### Component folder structure
 Each new component should be placed to new folder with following structure:
