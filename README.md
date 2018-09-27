@@ -29,11 +29,11 @@ Describe each project folder.
 Each new component should be placed to new folder with following structure:
 * **index.js** - component enter.
 * **ComponentName.js** - file with main component code.
-* **PropTypes.js** - file with component proptypes.
+* **PropTypes.js** - file with component props decription. Consists propTypes, defaultProps and contextTypes.
 * **ComponentNameStyles.scss** - file with component styles with SCSS syntax.
 * **actions.js** - file with redux actions which created and used in that component. Optional file.
 * **reducer.js** - file with redux reducer for that component. Optional file.
-* **anyAnotherFile** - any another files which used in component should be placed to component folder.
+* **anotherFile** - any another files which used in component should be placed to component folder.
 
 
 
