@@ -3,9 +3,15 @@ Rules and descriptions for ui projects
 
 ## Sections
 
+* [Getting started](#getting-started)
+* [Developer guide](#developer-guide)
+* [Api reference](#api-reference)
 * [Code style](#code-style)
 * [Project structure](#project-structure)
 
+## Getting started
+## Developer guide
+## Api reference
 ## Code style
 
 ### Linters
